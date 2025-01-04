@@ -1,0 +1,1 @@
+# DepremAlgilama_sistemi
